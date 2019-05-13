@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% assign category_type = page.category %}
+
+<div class="w-100">
+  <div class="cf">
+    {% for project in site.projects %}
+    {% if project.categories contains category_type %}
+    <a href="{{ project.url }}">
+      <div style="background-image: url('{{ project.thumbnail_image }}')"
+      class="fl w-100 w-50-m w-third-l h5-ns flex items-center justify-center pointer bgimage">
+        <div class="absolute tc white z-999 pointer-none">{{ project.title }}</div>
+        <div class="overlay bg-black w-100 h-100 o-0"></div>
+      </div>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>

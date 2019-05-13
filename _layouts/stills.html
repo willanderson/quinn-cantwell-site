@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% for asset in page.gallery %}
+
+<div class="gallery ph4 center mw8 mv4 flex justify-center items-start" >
+  <img src="{{ asset.image }}" />
+</div>
+
+{% endfor %}

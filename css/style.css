@@ -1,0 +1,103 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont,'avenir next', avenir,'helvetica neue', helvetica,ubuntu,roboto, noto,'segoe ui', arial,sans-serif;
+}
+
+ul, li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px;
+  padding: 0px;
+}
+
+a {
+  color: black;
+}
+
+.link:focus {
+  outline: none;
+}
+
+.obj-cover {
+  object-fit: cover;
+}
+
+@media screen and (min-width: 60em) {
+  .vh-calc-l {
+    height: calc(100vh - 51px);
+  }
+}
+
+.logo {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.vh-33 {
+  height: 33vh;
+}
+
+.vh-44 {
+  height: 44vh;
+}
+
+.blend-difference {
+  mix-blend-mode: difference;
+}
+
+.blend-overlay {
+  mix-blend-mode: overlay;
+}
+
+.overlay {
+  transition: .2s ease;
+}
+
+.overlay:hover {
+  opacity: .3;
+}
+
+.bgimage {
+  background-position: center;
+  background-size: cover;
+}
+
+.pointer-none {
+  pointer-events: none;
+}
+
+/* Hamburger Menu */
+
+.burger {
+  position: absolute;
+  left: 16px;
+  top: 12px;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 20px;
+  height: 2px;
+  background-color: #324550;
+  margin: 5px 0;
+  transition: transform 0.3s;
+}
+
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-8px, 2px);
+  transform: rotate(-45deg) translate(-8px, 2px);
+}
+
+.change .bar2 {
+    opacity: 0;
+}
+
+.change .bar3 {
+    -webkit-transform:rotate(45deg) translate(-8px, -2px);
+        transform: rotate(45deg) translate(-8px, -2px);
+}
+
+.gallery img {
+  max-height: 100vh;
+  object-fit: scale-down;
+
+}
