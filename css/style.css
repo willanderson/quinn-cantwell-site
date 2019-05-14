@@ -54,7 +54,7 @@ a {
 }
 
 .overlay:hover {
-  opacity: .3;
+  opacity: .5;
 }
 
 .bgimage {
@@ -97,7 +97,7 @@ a {
 }
 
 .gallery img {
-  max-height: 100vh;
+  max-height: 77vh;
   object-fit: scale-down;
 
 }
