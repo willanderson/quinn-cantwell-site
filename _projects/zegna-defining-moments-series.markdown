@@ -2,14 +2,9 @@
 title: 'Zegna: Defining Moments Series'
 date: 2019-04-09 19:22:00 -07:00
 thumbnail_image: "/uploads/Zegna%20Thumbnail_1.jpg"
-video_gallery:
-- video_link: https://vimeo.com/320394009
-  video_title: William's Story
-- video_link: https://vimeo.com/320391328
-  video_title: Khalid's Story
-- video_link: https://vimeo.com/320393126
-  video_title: Henry's Story
-- video_link: https://vimeo.com/320404001
-  video_title: Huw's Story
+gallery:
+- url: <div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/320404001?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:125% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/320393126?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:125% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/320394009?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:125% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/320391328?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ---
-

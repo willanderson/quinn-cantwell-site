@@ -7,10 +7,10 @@ categories:
 position: 0
 thumbnail_image: "/uploads/openingceremony/image-2.jpg"
 gallery:
-- image: "/uploads/Image-2_1a-bb5b36.jpg"
-- image: "/uploads/Image-2_2-b00345.jpg"
-- image: "/uploads/OC_3.jpg"
-- image: "/uploads/OC_4.jpg"
-- image: "/uploads/OC_5.jpg"
-- image: "/uploads/OC_6.jpg"
+- url: "/uploads/Image-2_1a-bb5b36.jpg"
+- url: "/uploads/Image-2_2-b00345.jpg"
+- url: "/uploads/OC_3.jpg"
+- url: "/uploads/OC_4.jpg"
+- url: "/uploads/OC_5.jpg"
+- url: "/uploads/OC_6.jpg"
 ---

@@ -7,13 +7,13 @@ categories:
 position: 8
 thumbnail_image: "/uploads/open-office-series/image-2.jpg"
 gallery:
-- image: "/uploads/Image-6_1b.jpg"
-- image: "/uploads/Image-6_10.jpg"
-- image: "/uploads/Image-6_7.jpg"
-- image: "/uploads/Image-6_4.jpg"
-- image: "/uploads/Image-6_6a.jpg"
-- image: "/uploads/Image-6_5a.jpg"
-- image: "/uploads/Image-6_3.jpg"
-- image: "/uploads/Image-6_9.jpg"
-- image: "/uploads/Image-6_8.jpg"
+- url: "/uploads/Image-6_1b.jpg"
+- url: "/uploads/Image-6_10.jpg"
+- url: "/uploads/Image-6_7.jpg"
+- url: "/uploads/Image-6_4.jpg"
+- url: "/uploads/Image-6_6a.jpg"
+- url: "/uploads/Image-6_5a.jpg"
+- url: "/uploads/Image-6_3.jpg"
+- url: "/uploads/Image-6_9.jpg"
+- url: "/uploads/Image-6_8.jpg"
 ---

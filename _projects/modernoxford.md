@@ -10,15 +10,10 @@ tags:
 - fashion
 position: 1
 thumbnail_image: https://i.vimeocdn.com/video/586916441.jpg
-video_gallery:
-- video_link: https://vimeo.com/179094301&autoplay=true
-  video_title: Modern Oxford Campaign Video
-- video_link: https://vimeo.com/211456868&autoplay=true
-  video_title: 30 Seconds With Kiersey Clemons
-- video_link: https://vimeo.com/211466428&autoplay=true
-  video_title: 30 Seconds With Jane Moseley
-- video_link: https://vimeo.com/211451394&autoplay=true
-  video_title: 30 Seconds With Hailey Gates
+gallery:
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/221348805?color=f6f9fa&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/211466428?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/211456868?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/211451394?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 layout: videos
 ---
-

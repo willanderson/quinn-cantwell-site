@@ -21,10 +21,18 @@ a {
   object-fit: cover;
 }
 
+.vh-calc {
+  height: calc(100vh - 51px);  
+}
+
 @media screen and (min-width: 60em) {
   .vh-calc-l {
     height: calc(100vh - 51px);
   }
+}
+
+.z-min {
+  z-index: -1;
 }
 
 .logo {
@@ -66,6 +74,14 @@ a {
   pointer-events: none;
 }
 
+.hover-underline {
+  text-decoration: none;
+}
+
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
 /* Hamburger Menu */
 
 .burger {
@@ -99,5 +115,4 @@ a {
 .gallery img {
   max-height: 77vh;
   object-fit: scale-down;
-
 }

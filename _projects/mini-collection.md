@@ -7,13 +7,13 @@ categories:
 position: 6
 thumbnail_image: "/uploads/mini-collection/image-3.jpg"
 gallery:
-- image: "/uploads/Image-9_1a.jpg"
-- image: "/uploads/Image-9_2.jpg"
-- image: "/uploads/Image-9_3.jpg"
-- image: "/uploads/Everlane-min-ecom_navy-sweater-c40481.gif"
-- image: "/uploads/image-9_5a.jpg"
-- image: "/uploads/image-9_6.jpg"
-- image: "/uploads/Image-9_7.jpg"
-- image: "/uploads/Image%209_8.gif"
-- image: "/uploads/Image-9_9.jpg"
+- url: "/uploads/Image-9_1a.jpg"
+- url: "/uploads/Image-9_2.jpg"
+- url: "/uploads/Image-9_3.jpg"
+- url: "/uploads/Everlane-min-ecom_navy-sweater-c40481.gif"
+- url: "/uploads/image-9_5a.jpg"
+- url: "/uploads/image-9_6.jpg"
+- url: "/uploads/Image-9_7.jpg"
+- url: "/uploads/Image%209_8.gif"
+- url: "/uploads/Image-9_9.jpg"
 ---

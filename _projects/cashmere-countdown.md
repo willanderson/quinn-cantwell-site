@@ -10,14 +10,10 @@ tags:
 - fashion
 position: 3
 thumbnail_image: "/uploads/Countdown-Master-Thumbnail.jpg"
-video_gallery:
-- video_link: https://vimeo.com/77356951&autoplay=true
-  video_title: 'Cashmere Countdown: 3'
-- video_link: https://vimeo.com/77359006&autoplay=true
-  video_title: 'Cashmere Countdown: 2'
-- video_link: https://vimeo.com/77546403&autoplay=true
-  video_title: 'Cashmere  Countdown: 1'
-- video_link: https://vimeo.com/77546572&autoplay=true
-  video_title: Launch
+gallery:
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/77356951?autoplay=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/77359006?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/77546403?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+- url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/77546572?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 layout: videos
 ---
