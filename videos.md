@@ -1,6 +1,7 @@
 ---
+title: Videos
+permalink: "/videos/"
 layout: work
 category: videos
-title: Videos
-permalink: /videos/
 ---
+

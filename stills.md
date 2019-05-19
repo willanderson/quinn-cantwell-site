@@ -1,6 +1,7 @@
 ---
-layout: work
 title: Stills
-category: stills
 permalink: "/stills/"
+layout: work
+category: stills
 ---
+
