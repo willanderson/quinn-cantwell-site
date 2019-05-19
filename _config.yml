@@ -1,19 +1,10 @@
+---
 title: Quinn Cantwell
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: /qc_portfolio
-video: https://player.vimeo.com/external/224967671.hd.mp4?s=d6b09aa6c2ff24d67a326f4a9fde0af7481719f9&profile_id=175
-image: "/uploads/Hero_12.jpg"
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+timezone: UTC
 collections:
+  posts:
+    title: Posts
+    output: true
   projects:
     title: Projects
     output: true
@@ -22,14 +13,14 @@ collections:
     title: Uploads
     output: true
     permalink: "/uploads/:path/"
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+email: your-email@example.com
+description: Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for Google search
+  results) and in your feed.xml site description.
+baseurl: "/qc_portfolio"
+video: https://player.vimeo.com/external/224967671.hd.mp4?s=d6b09aa6c2ff24d67a326f4a9fde0af7481719f9&profile_id=175
+image: "/uploads/Hero_12.jpg"
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed

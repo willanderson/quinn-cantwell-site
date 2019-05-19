@@ -1,10 +1,10 @@
 ---
 title: Mini Collection
-date: 2016-06-15 05:00:00 -07:00
-layout: stills
+date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 6
+layout: stills
 thumbnail_image: "/uploads/mini-collection/image-3.jpg"
 gallery:
 - url: "/uploads/Image-9_1a.jpg"
@@ -17,3 +17,4 @@ gallery:
 - url: "/uploads/Image%209_8.gif"
 - url: "/uploads/Image-9_9.jpg"
 ---
+

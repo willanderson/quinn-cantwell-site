@@ -1,10 +1,10 @@
 ---
 title: Party Capsule
-date: 2016-06-15 05:00:00 -07:00
-layout: stills
+date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 7
+layout: stills
 thumbnail_image: "/uploads/Thumbnail.jpg"
 gallery:
 - url: "/uploads/Image-1-8a5a1c.jpg"
@@ -15,3 +15,4 @@ gallery:
 - url: "/uploads/Image-6-d5374c.jpg"
 - url: "/uploads/Image-7-241964.jpg"
 ---
+

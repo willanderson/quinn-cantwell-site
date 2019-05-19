@@ -1,10 +1,10 @@
 ---
 title: Elevate Summer
-layout: stills
-date: 2016-06-15 05:00:00 -07:00
+date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 4
+layout: stills
 thumbnail_image: "/uploads/Image%207_1-7e4990.jpg"
 gallery:
 - url: "/uploads/Image-7_1.jpg"
@@ -15,3 +15,4 @@ gallery:
 - url: "/uploads/Elevate-Summer_6-eabbe2.jpg"
 - url: "/uploads/Elevate-Summer_7-fd484a.jpg"
 ---
+
