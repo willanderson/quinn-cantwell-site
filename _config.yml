@@ -4,7 +4,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: /qc_portfolio
+# baseurl: /qc_portfolio
+baseurl: /
 video: https://player.vimeo.com/external/224967671.hd.mp4?s=d6b09aa6c2ff24d67a326f4a9fde0af7481719f9&profile_id=175
 image: "/uploads/Hero_12.jpg"
 
