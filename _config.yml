@@ -18,14 +18,14 @@ defaults:
     path: ''
     type: projects
   values:
-    title: 
+    title:
     categories: stills
     date: 2016-09-15 12:00:00.000000000 Z
-    thumbnail_image: 
+    thumbnail_image:
     gallery:
-    - file: 
+    - file:
     videos:
-    - url: 
+    - url:
     layout: stills
 email: quinn.cagney@gmail.com
 baseurl: "/"
@@ -40,4 +40,4 @@ about_text: |-
   Buongiorno! I am a San Francisco-based video director. I have created video and photo content for Everlane, SoulCycle, Reformation, Zegna, and Opening Ceremony.
 
   I partner with in-house creative and marketing teams to ideate and execute campaigns. I lead or support any aspect: writing, directing, editing, casting, and styling!
-contact_text: 'I respond most quickly to emails with kitten GIF''s: [quinn.cagney@gmail.com](mailto:quinn.cagney@gmail.com)'
+contact_text: 'I respond most quickly to emails with kitten GIF''s: quinn.cagney@gmail.com'
