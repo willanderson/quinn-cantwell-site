@@ -18,12 +18,14 @@ defaults:
     path: ''
     type: projects
   values:
-    title:
+    title: 
     categories: stills
     date: 2016-09-15 12:00:00.000000000 Z
-    thumbnail_image:
+    thumbnail_image: 
     gallery:
-    - url:
+    - file: 
+    videos:
+    - url: 
     layout: stills
 email: quinn.cagney@gmail.com
 baseurl: "/"
@@ -41,17 +43,3 @@ about_text: |-
 
   <p>I partner with in-house creative and marketing teams to ideate and execute campaigns. I lead or support any aspect: writing, directing, editing, casting, and styling!</p>
 contact_text: 'I respond most quickly to emails with kitten GIF''s: <a href="mailto:quinn.cagney@gmail.com">quinn.cagney@gmail.com</a>'
-defaults:
-- scope:
-    path: ''
-    type: projects
-  values:
-    title:
-    categories: stills
-    date: 2016-09-15 12:00:00.000000000 Z
-    thumbnail_image:
-    gallery:
-    - file:
-    videos:
-      - url:
-    layout: stills

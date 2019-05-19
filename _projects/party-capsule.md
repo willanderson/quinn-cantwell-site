@@ -15,3 +15,4 @@ gallery:
 - file: "/uploads/Image-6-d5374c.jpg"
 - file: "/uploads/Image-7-241964.jpg"
 ---
+
