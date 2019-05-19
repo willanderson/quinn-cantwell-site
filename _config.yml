@@ -20,18 +20,6 @@ description: Write an awesome description for your new site here. You can edit t
 theme: minima
 plugins:
 - jekyll-feed
-defaults:
-- scope:
-    path: ''
-    type: projects
-  values:
-    title:
-    categories:
-    date: 2016-09-15 12:00:00.000000000 Z
-    thumbnail_image:
-    gallery:
-    - image:
-    layout: stills
 about: Buongiorno! I am a San Francisco-based video director. I have created video and photo content for Everlane, SoulCycle, Reformation, Zegna, and Opening Ceremony. I partner with in-house creative and marketing teams to ideate and execute campaigns. I lead or support any aspect: writing, directing, editing, casting, and styling!
 contact: I respond most quickly to emails with kitten GIF's: <a href="mailto:quinn.cagney@gmail.com">quinn.cagney@gmail.com</a>
 video: https://player.vimeo.com/external/224967671.hd.mp4?s=d6b09aa6c2ff24d67a326f4a9fde0af7481719f9&profile_id=175
