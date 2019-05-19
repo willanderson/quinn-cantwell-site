@@ -1,4 +1,5 @@
 ---
 layout: work
-category: "videos"
+category: videos
 ---
+

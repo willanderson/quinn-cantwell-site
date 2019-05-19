@@ -1,4 +1,5 @@
 ---
-layout: info
 title: Info
+layout: info
 ---
+

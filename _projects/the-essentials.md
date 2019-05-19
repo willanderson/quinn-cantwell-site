@@ -1,10 +1,10 @@
 ---
 title: The Essentials
-date: 2016-06-15 05:00:00 -07:00
-layout: stills
+date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 2
+layout: stills
 thumbnail_image: "/uploads/the-essentials/image-1.jpg"
 gallery:
 - url: "/uploads/Image-1-247245.jpg"
@@ -16,3 +16,4 @@ gallery:
 - url: "/uploads/Image-6a.jpg"
 - url: "/uploads/Image-7.jpg"
 ---
+
