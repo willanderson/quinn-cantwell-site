@@ -16,6 +16,7 @@ collections:
 email: quinn.cagney@gmail.com
 baseurl: "/"
 markdown: kramdown
+description: ''
 theme: minima
 plugins:
 - jekyll-feed
