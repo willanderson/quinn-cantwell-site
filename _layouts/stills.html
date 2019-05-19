@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% for asset in file.gallery %}
+{% for asset in page.gallery %}
 
 <div class="gallery ph4 center mw8 mv4 flex justify-center items-start" >
-  <img src="{{ site.baseurl }}{{ asset.url }}" />
+  <img src="{{ site.baseurl }}{{ asset.file }}" />
 </div>
 
 {% endfor %}
