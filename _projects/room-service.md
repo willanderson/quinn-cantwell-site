@@ -13,3 +13,4 @@ gallery:
 - file: "/uploads/Room-Service_8jpg"
 - file: "/uploads/Room-Service_9.jpg"
 ---
+

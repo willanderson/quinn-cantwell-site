@@ -17,3 +17,4 @@ gallery:
 - file: "/uploads/Image-6_9.jpg"
 - file: "/uploads/Image-6_8.jpg"
 ---
+
