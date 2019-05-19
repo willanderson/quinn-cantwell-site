@@ -2,12 +2,12 @@
 layout: default
 ---
 
-{% assign category_type = page.layout %}
+{% assign category_type = page.category %}
 
 <div class="w-100">
   <div class="cf">
     {% for project in site.projects %}
-    {% if project.categories contains category_type %}
+    {% if project.layout contains category_type %}
     <a href="{{ site.baseurl }}{{ project.url }}">
       <div style="background-image: url('{{ site.baseurl }}{{ project.thumbnail_image }}')"
       class="fl w-100 w-50-m w-third-l vh-50 h5-m h5-l flex items-center justify-center pointer bgimage">
