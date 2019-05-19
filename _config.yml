@@ -24,6 +24,11 @@ plugins:
 - jekyll-feed
 video: https://player.vimeo.com/external/224967671.hd.mp4?s=d6b09aa6c2ff24d67a326f4a9fde0af7481719f9&profile_id=175
 image: "/uploads/Hero_12.jpg"
+about_text: |-
+  <p>Buongiorno! I am a San Francisco-based video director. I have created video and photo content for Everlane, SoulCycle, Reformation, Zegna, and Opening Ceremony.</p>
+
+  <p>I partner with in-house creative and marketing teams to ideate and execute campaigns. I lead or support any aspect: writing, directing, editing, casting, and styling!</p>
+contact_text: 'I respond most quickly to emails with kitten GIF''s: <a href="mailto:quinn.cagney@gmail.com">quinn.cagney@gmail.com</a>'
 defaults:
 - scope:
     path: ''
@@ -34,5 +39,7 @@ defaults:
     date: 2016-09-15 12:00:00.000000000 Z
     thumbnail_image:
     gallery:
-    - url: 
+    - file:
+    videos:
+      - url:
     layout: stills
