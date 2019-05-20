@@ -1,7 +1,6 @@
 ---
 title: Stills
 permalink: "/stills/"
-layout: work
+layout: stills_index
 category: stills
 ---
-

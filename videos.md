@@ -1,7 +1,6 @@
 ---
 title: Videos
 permalink: "/videos/"
-layout: work
+layout: videos_index
 category: videos
 ---
-

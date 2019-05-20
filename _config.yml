@@ -5,10 +5,14 @@ collections:
   posts:
     title: Posts
     output: true
-  projects:
-    title: Projects
+  stills:
+    title: Stills
     output: true
-    permalink: "/projects/:path/"
+    permalink: "/stills/:path/"
+  videos:
+    title: Videos
+    output: true
+    permalink: "/videos/:path/"
   uploads:
     title: Uploads
     output: true
@@ -16,17 +20,24 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: projects
+    type: stills
   values:
-    title: 
+    title:
     categories: stills
-    date: 2016-09-15 12:00:00.000000000 Z
-    thumbnail_image: 
+    thumbnail_image:
     gallery:
-    - file: 
-    videos:
-    - url: 
+    - file:
     layout: stills
+- scope:
+    path: ''
+    type: videos
+  values:
+    title:
+    categories: videos
+    thumbnail_image:
+    videos:
+    - url:
+    layout: videos
 email: quinn.cagney@gmail.com
 baseurl: "/"
 markdown: kramdown
