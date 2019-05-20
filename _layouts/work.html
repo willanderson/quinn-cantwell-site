@@ -6,7 +6,7 @@ layout: default
 
 <div class="w-100">
   <div class="cf">
-    {% assign sorted = (site.projects | sort: 'date') | reverse %}
+    {% assign sorted = (site.projects | sort: 'position') | reverse %}
     {% for project in sorted %}
     {% if project.layout contains category_type %}
     <a href="{{ site.baseurl }}{{ project.url }}">
