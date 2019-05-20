@@ -9,34 +9,34 @@ collections:
     title: Stills
     output: true
     permalink: "/stills/:path/"
-  videos:
-    title: Videos
-    output: true
-    permalink: "/videos/:path/"
   uploads:
     title: Uploads
     output: true
     permalink: "/uploads/:path/"
+  videos:
+    title: Videos
+    output: true
+    permalink: "/videos/:path/"
 defaults:
 - scope:
     path: ''
     type: stills
   values:
-    title:
+    title: 
     categories: stills
-    thumbnail_image:
+    thumbnail_image: 
     gallery:
-    - file:
+    - file: 
     layout: stills
 - scope:
     path: ''
     type: videos
   values:
-    title:
+    title: 
     categories: videos
-    thumbnail_image:
+    thumbnail_image: 
     videos:
-    - url:
+    - url: 
     layout: videos
 email: quinn.cagney@gmail.com
 baseurl: "/"
