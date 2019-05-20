@@ -1,8 +1,6 @@
 ---
 title: Everlane's Black Friday Fund
 date: 2016-11-26 12:00:00 Z
-categories:
-- videos
 tags:
 - styling
 - ''
@@ -16,4 +14,3 @@ videos:
     allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 layout: videos
 ---
-
