@@ -1,5 +1,5 @@
 ---
-title: SoulCycle
+title: 'SoulCycle: ShhhSoul'
 date: 2019-04-10 02:09:00 Z
 position: 0
 thumbnail_image: "/uploads/Thumbnail_BW_Splitscreen.jpg"
