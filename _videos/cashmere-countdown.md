@@ -1,5 +1,5 @@
 ---
-title: Gia x Everlane
+title: 'Everlane: Gia Coppola Collaboration'
 date: 2016-11-26 12:00:00 Z
 categories:
 - videos
