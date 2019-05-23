@@ -1,5 +1,5 @@
 ---
-title: Edible Schoolyard
+title: 'Everlane: Know Your Food'
 date: 2016-11-26 12:00:00 Z
 categories:
 - videos
