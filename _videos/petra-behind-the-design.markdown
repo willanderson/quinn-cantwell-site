@@ -1,5 +1,5 @@
 ---
-title: 'Everlane: Petra, Behind The Design'
+title: 'Everlane: Meet Petra'
 date: 2019-05-23 03:43:00 Z
 position: 5
 thumbnail_image: "/uploads/Thumbnail_2.jpg"
