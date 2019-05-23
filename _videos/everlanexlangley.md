@@ -7,7 +7,7 @@ tags:
 - Editorial,
 - campaign,
 - fashion
-position: 2
+position: 4
 thumbnail_image: "/uploads/624638434.jpg"
 videos:
 - url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/209160408?autoplay=1&title=0&byline=0&portrait=0"

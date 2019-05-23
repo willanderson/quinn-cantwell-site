@@ -1,6 +1,7 @@
 ---
 title: SoulCycle
 date: 2019-04-10 02:09:00 Z
+position: 0
 thumbnail_image: "/uploads/Thumbnail_BW_Splitscreen.jpg"
 videos:
 - url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/329197623?autoplay=1&title=0&byline=0&portrait=0"

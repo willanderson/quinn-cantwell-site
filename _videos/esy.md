@@ -8,7 +8,7 @@ tags:
 - ''
 - photo
 - fashion
-position: 5
+position: 7
 thumbnail_image: "/uploads/ESY_Thumbnail_1-07fbf1.jpg"
 videos:
 - url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/208911651?autoplay=1&title=0&byline=0&portrait=0"

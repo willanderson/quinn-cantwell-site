@@ -1,6 +1,7 @@
 ---
 title: 'Zegna: Defining Moments Series'
 date: 2019-04-10 02:22:00 Z
+position: 1
 layout: videos
 thumbnail_image: "/uploads/Zegna%20Thumbnail_1.jpg"
 videos:
