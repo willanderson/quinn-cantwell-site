@@ -1,5 +1,5 @@
 ---
-title: Everlane's Black Friday Fund
+title: 'Everlane: Black Friday Fund'
 date: 2016-11-26 12:00:00 Z
 tags:
 - styling
