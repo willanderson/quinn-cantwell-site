@@ -1,5 +1,5 @@
 ---
-title: 'Zegna: Defining Moments Series'
+title: 'Zegna: Defining Moments'
 date: 2019-04-10 02:22:00 Z
 position: 1
 thumbnail_image: "/uploads/Zegna-Thumbnail_2.jpg"
