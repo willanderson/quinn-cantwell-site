@@ -1,5 +1,5 @@
 ---
-title: Modern Oxford
+title: 'Everlane: The Modern Oxford'
 date: 2016-09-15 12:00:00 Z
 categories:
 - videos
