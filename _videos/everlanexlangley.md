@@ -1,11 +1,12 @@
 ---
-title: Everlane x Langley
+title: Langley x Everlane
 date: 2016-11-26 12:00:00 Z
 categories:
 - videos
 tags:
-- Editorial,
-- campaign,
+- Editorial
+- ''
+- campaign
 - fashion
 position: 4
 thumbnail_image: "/uploads/624638434.jpg"
