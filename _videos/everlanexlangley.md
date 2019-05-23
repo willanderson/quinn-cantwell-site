@@ -1,5 +1,5 @@
 ---
-title: Langley x Everlane
+title: 'Everlane: Langley Fox Collaboration'
 date: 2016-11-26 12:00:00 Z
 categories:
 - videos
