@@ -173,3 +173,12 @@ a {
 .about {
   max-width: 100vw;
 }
+
+.videoplayer iframe {
+  max-height: calc(100vh - 50px);
+  width: 100%;
+}
+
+/* .videoplayer {
+  max-height: calc(100vh - 50px);
+} */
