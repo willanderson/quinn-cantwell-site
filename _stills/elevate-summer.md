@@ -4,7 +4,7 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 1
-thumbnail_image: "/uploads/ES_cover1.jpg"
+thumbnail_image: "/uploads/ES_1-09d504.jpg"
 gallery:
 - file: "/uploads/ES_1_alt.jpg"
 - file: "/uploads/ES_2-21a3f3.jpg"
