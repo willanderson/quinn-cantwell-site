@@ -7,10 +7,11 @@ position: 1
 thumbnail_image: "/uploads/ES_1_alt-c022c1.jpg"
 gallery:
 - file: "/uploads/ES_1_alt.jpg"
-- file: "/uploads/ES_2-21a3f3.jpg"
-- file: "/uploads/ES_3alt.jpg"
 - file: "/uploads/ES_6-ab1dc0.jpg"
+- file: "/uploads/ES_2-21a3f3.jpg"
 - file: "/uploads/ES_4-ab7736.jpg"
+- file: "/uploads/ES_8-03b925.jpg"
+- file: "/uploads/ES_3alt.jpg"
 - file: "/uploads/ES_7-e2d008.jpg"
 layout: stills
 ---
