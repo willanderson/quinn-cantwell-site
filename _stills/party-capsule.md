@@ -8,7 +8,7 @@ thumbnail_image: "/uploads/Party_1-a18ca3.jpg"
 gallery:
 - file: "/uploads/Party_1.jpg"
 - file: "/uploads/Party_2filter.jpg"
-- file: "/uploads/Party_3.jpg"
+- file: "/uploads/Party_3-d08171.jpg"
 - file: "/uploads/Party_4.jpg"
 - file: "/uploads/Party_5.jpg"
 - file: "/uploads/Image-6-d5374c.jpg"
