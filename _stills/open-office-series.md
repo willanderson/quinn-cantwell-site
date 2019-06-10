@@ -3,7 +3,7 @@ title: Open Office Series
 date: 2016-06-15 12:00:00 Z
 categories:
 - stills
-position: 8
+position: 7
 layout: stills
 thumbnail_image: "/uploads/open-office-series/image-2.jpg"
 gallery:

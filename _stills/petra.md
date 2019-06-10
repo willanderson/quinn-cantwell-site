@@ -8,7 +8,7 @@ tags:
 - ''
 - photo
 - fashion
-position: 4
+position: 5
 layout: videos
 thumbnail_image: "/uploads/Screen%20Shot%202017-06-22%20at%203.20.26%20PM.png"
 videos:
