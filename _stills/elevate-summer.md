@@ -6,12 +6,13 @@ categories:
 position: 4
 thumbnail_image: "/uploads/Image%207_1-7e4990.jpg"
 gallery:
-- file: "/uploads/ES_1.jpg"
-- file: "/uploads/ES_2-a20444.jpg"
-- file: "/uploads/ES_3.jpg"
-- file: "/uploads/ES_4.jpg"
-- file: "/uploads/ES_6-92d0b2.jpg"
-- file: "/uploads/ES_7.jpg"
+- file: "/uploads/ES_1_alt.jpg"
+- file: "/uploads/Elevate-Summer_2-0ab1e8.jpg"
+- file: "/uploads/Elevate-Summer_3-2616e2.jpg"
+- file: "/uploads/Elevate-Summer_4%20copy.jpg"
+- file: "/uploads/Elevate-Summer_5-3f4973.jpg"
+- file: "/uploads/Elevate-Summer_6-eabbe2.jpg"
+- file: "/uploads/Elevate-Summer_7-fd484a.jpg"
 layout: stills
 ---
 
