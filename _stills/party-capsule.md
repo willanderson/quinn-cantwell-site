@@ -3,7 +3,7 @@ title: Party Capsule
 date: 2016-06-15 12:00:00 Z
 categories:
 - stills
-position: 1
+position: 2
 thumbnail_image: "/uploads/Party_1-a18ca3.jpg"
 gallery:
 - file: "/uploads/Party_1.jpg"

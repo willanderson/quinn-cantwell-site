@@ -3,7 +3,7 @@ title: The Essentials
 date: 2016-06-15 12:00:00 Z
 categories:
 - stills
-position: 2
+position: 3
 layout: stills
 thumbnail_image: "/uploads/the-essentials/image-1.jpg"
 gallery:
