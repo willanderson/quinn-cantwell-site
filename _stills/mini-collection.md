@@ -3,7 +3,7 @@ title: Mini Collection
 date: 2016-06-15 12:00:00 Z
 categories:
 - stills
-position: 6
+position: 5
 layout: stills
 thumbnail_image: "/uploads/mini-collection/image-3.jpg"
 gallery:
