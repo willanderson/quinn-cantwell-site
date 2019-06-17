@@ -10,11 +10,10 @@ gallery:
 - file: "/uploads/TE_2.jpg"
 - file: "/uploads/TE_3.jpg"
 - file: "/uploads/TE_4.jpg"
-- file: "/uploads/TE_5.jpg"
+- file: "/uploads/TE_5-fecbae.jpg"
 - file: "/uploads/TE_6.jpg"
 - file: "/uploads/TE_7.jpg"
 - file: "/uploads/TE_8.jpg"
-- file: "/uploads/TE_9.jpg"
 layout: stills
 ---
 
