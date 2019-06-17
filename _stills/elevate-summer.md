@@ -4,7 +4,7 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 1
-thumbnail_image: "/uploads/ES_HERO.jpg"
+thumbnail_image: "/uploads/ES_HERO-48831e.jpg"
 gallery:
 - file: "/uploads/ES_1-1fc988.jpg"
 - file: "/uploads/ES_2-651aa6.jpg"
