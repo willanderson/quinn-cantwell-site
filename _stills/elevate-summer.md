@@ -6,7 +6,7 @@ categories:
 position: 1
 thumbnail_image: "/uploads/ES_HERO-48831e.jpg"
 gallery:
-- file: "/uploads/ES_1-1fc988.jpg"
+- file: "/uploads/ES_HERO-632e3b.jpg"
 - file: "/uploads/ES_2-651aa6.jpg"
 - file: "/uploads/ES_3-7bfd96.jpg"
 - file: "/uploads/ES_4-541144.jpg"
