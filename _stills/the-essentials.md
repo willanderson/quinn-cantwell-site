@@ -4,16 +4,17 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 3
-layout: stills
-thumbnail_image: "/uploads/the-essentials/image-1.jpg"
+thumbnail_image: "/uploads/TE_2-f506e5.jpg"
 gallery:
-- file: "/uploads/Image-1-247245.jpg"
-- file: "/uploads/Image-2-45e418.jpg"
-- file: "/uploads/Image-3-a0f62b.jpg"
-- file: "/uploads/Image-4-9d85be.jpg"
-- file: "/uploads/Image-5b.jpg"
-- file: "/uploads/Image-8.jpg"
-- file: "/uploads/Image-6a.jpg"
-- file: "/uploads/Image-7.jpg"
+- file: "/uploads/TE_1.jpg"
+- file: "/uploads/TE_2.jpg"
+- file: "/uploads/TE_3.jpg"
+- file: "/uploads/TE_4.jpg"
+- file: "/uploads/TE_5.jpg"
+- file: "/uploads/TE_6.jpg"
+- file: "/uploads/TE_7.jpg"
+- file: "/uploads/TE_8.jpg"
+- file: "/uploads/TE_9.jpg"
+layout: stills
 ---
 
