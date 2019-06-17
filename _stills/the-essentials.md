@@ -4,7 +4,7 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 3
-thumbnail_image: "/uploads/TE_2-f506e5.jpg"
+thumbnail_image: "/uploads/TE_HERO"
 gallery:
 - file: "/uploads/TE_1.jpg"
 - file: "/uploads/TE_2.jpg"
