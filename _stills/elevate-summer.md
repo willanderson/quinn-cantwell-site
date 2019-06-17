@@ -4,16 +4,16 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 1
-thumbnail_image: "/uploads/ES_1-2d7218.jpg"
+thumbnail_image: "/uploads/ES_HERO.jpg"
 gallery:
-- file: "/uploads/ES_1-e80cb4.jpg"
+- file: "/uploads/ES_1-1fc988.jpg"
 - file: "/uploads/ES_2-651aa6.jpg"
-- file: "/uploads/ES_3-9f5135.jpg"
+- file: "/uploads/ES_3-7bfd96.jpg"
 - file: "/uploads/ES_4-541144.jpg"
-- file: "/uploads/ES_5-08c031.jpg"
+- file: "/uploads/ES_5-ef46f1.jpg"
 - file: "/uploads/ES_6-a74504.jpg"
-- file: "/uploads/ES_7-d64a35.jpg"
-- file: "/uploads/ES_8-6b0469.jpg"
+- file: "/uploads/ES_7-c435c0.jpg"
+- file: "/uploads/ES_8-0acd44.jpg"
 layout: stills
 ---
 
