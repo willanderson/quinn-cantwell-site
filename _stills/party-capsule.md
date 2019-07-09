@@ -6,13 +6,14 @@ categories:
 position: 2
 thumbnail_image: "/uploads/Party_1-a18ca3.jpg"
 gallery:
-- file: "/uploads/Party_1.jpg"
-- file: "/uploads/Party_2filter.jpg"
-- file: "/uploads/Party_3-d08171.jpg"
-- file: "/uploads/Party_4.jpg"
-- file: "/uploads/Party_5.jpg"
-- file: "/uploads/Image-6-d5374c.jpg"
-- file: "/uploads/Party_6-8b074f.jpg"
+- file: "/uploads/PARTY_1-1547a5.jpg"
+- file: "/uploads/PARTY_2.jpg"
+- file: "/uploads/PARTY_3-565c92.jpg"
+- file: "/uploads/PARTY_4-1df830.jpg"
+- file: "/uploads/PARTY_5-56efec.jpg"
+- file: "/uploads/PARTY_6-91953c.jpg"
+- file: "/uploads/PARTY_7.jpg"
+- file: "/uploads/PARTY_8.jpg"
 layout: stills
 ---
 
