@@ -4,7 +4,7 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 2
-thumbnail_image: "/uploads/Party_1-a18ca3.jpg"
+thumbnail_image: "/uploads/PARTY_1-cfa420.jpg"
 gallery:
 - file: "/uploads/PARTY_1-1547a5.jpg"
 - file: "/uploads/PARTY_2.jpg"
