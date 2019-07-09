@@ -9,4 +9,8 @@ videos:
     allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ---
 
+Client: Everlane
+
+Role: Writer, Director, Editor
+
 Lorem ipsum dolor sit amet, his at quis corpora ullamcorper. Eam ei wisi aliquam recusabo, vis te nulla aliquid sententiae, id munere luptatum urbanitas sit. At audiam moderatius duo, sit quod omnium labores at, et eirmod aliquam eos.
