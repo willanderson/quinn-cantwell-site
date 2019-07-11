@@ -4,7 +4,7 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 6
-thumbnail_image: "/uploads/OO_1-a82425.jpg"
+thumbnail_image: "/uploads/Image-6_4-eeac18.jpg"
 gallery:
 - file: "/uploads/OO_1-d8e200.jpg"
 - file: "/uploads/OO_2-3cb59b.jpg"
