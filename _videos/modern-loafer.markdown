@@ -10,4 +10,4 @@ videos:
 layout: videos
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We put together an all-female crew to shoot Everlane’s Modern Loafer. On a shoestring budget, we wrote/directed/edited - along with my bff Kaitlin Arizmendi as DP - a short about the shoe that would go on to become the brand’s #1 seller.
