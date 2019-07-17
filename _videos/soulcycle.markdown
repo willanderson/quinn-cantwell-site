@@ -10,3 +10,4 @@ videos:
 layout: videos
 ---
 
+Client request: make the funniest April Fools’ IG video Soul has ever posted without shooting any new content. So, using B-roll from other shoots + my voiceover into an iPhone, we released SoulCycle’s most-engaged IG video to date with 50,000+ views and 600+ comments.
