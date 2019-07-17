@@ -15,3 +15,4 @@ videos:
 layout: videos
 ---
 
+Armed with an all-Vietnamese crew, one translator, and two drones, we profiled the realities of commuting to an urban factory. With music from our friends at Phantogram, we launched Everlane’s biggest Black Friday yet, receiving coverage from [Fast Company](https://www.fastcompany.com/4025614/this-black-friday-everlane-wants-to-buy-8000-helmets-for-vietnamese-workers) and more.
