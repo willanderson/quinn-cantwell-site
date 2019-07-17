@@ -1,7 +1,7 @@
 ---
 title: 'Zegna: Defining Moments'
 date: 2019-04-10 02:22:00 Z
-position: 1
+position: 2
 thumbnail_image: "/uploads/Zegna-Thumbnail_2.jpg"
 videos:
 - url: <iframe src="https://player.vimeo.com/video/320404001?title=0&byline=0&portrait=0"
