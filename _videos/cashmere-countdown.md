@@ -17,3 +17,4 @@ videos:
 layout: videos
 ---
 
+Everlane kicked off a summer with Gia. We found the most amazing Greece-in-my-backyard home to relive the elusive ‘70s lifestyle with our best friends in tow. We sunned, smoked, and styled our way through a weekday afternoon in LA
