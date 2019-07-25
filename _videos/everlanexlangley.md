@@ -8,7 +8,7 @@ tags:
 - ''
 - campaign
 - fashion
-position: 6
+position: 8
 thumbnail_image: "/uploads/Thumbnail_3-a268ec.jpg"
 videos:
 - url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/209160408?autoplay=1&title=0&byline=0&portrait=0"
