@@ -1,7 +1,7 @@
 ---
 title: 'Everlane: The Modern Loafer'
 date: 2017-06-22 23:41:00 Z
-position: 0
+position: 1
 thumbnail_image: "/uploads/Thumbnail_1-d98f4b.jpg"
 videos:
 - url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/211406397?autoplay=1&title=0&byline=0&portrait=0"

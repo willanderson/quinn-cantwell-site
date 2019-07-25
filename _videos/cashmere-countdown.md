@@ -8,7 +8,7 @@ tags:
 - ''
 - photo
 - fashion
-position: 7
+position: 0
 thumbnail_image: "/uploads/Thumbnail_1"
 videos:
 - url: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/209524753?autoplay=1&title=0&byline=0&portrait=0"
