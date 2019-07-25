@@ -26,3 +26,4 @@ videos:
 layout: videos
 ---
 
+For Everlane’s Modern Oxford release, we brought three greats into our studio - women who influence with their actions as much as their words. We dropped Kiersey, Haley, and Jane into identical grey environments and let their spirits speak to us.
