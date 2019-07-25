@@ -17,3 +17,4 @@ videos:
 layout: videos
 ---
 
+Langley Fox marked Everlane’s first-ever design collaboration with an LA-based celeb. We let Langley’s narrative drive the story - tanks stolen from her older sister, the reliving her youth as an adult, and how to design a product around your personal inspirations.
