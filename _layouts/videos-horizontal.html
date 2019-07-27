@@ -5,7 +5,7 @@ layout: default
 <div class="pb4">
 
 {% if page.content.size > 1 %}
-<div class="w-100 h4 flex justify-center-ns items-center-ns items-start">
+<div class="w-100 h-auto flex justify-center-ns items-center-ns items-start">
     <div class="measure-ultra-wide w-100 f5 lh-copy ph3 pv4">
       {{page.content}}
   </div>
@@ -14,7 +14,7 @@ layout: default
 
 {% for asset in page.videos %}
 
-  <div class="ph3 pb4 videoplayer horizontal ">
+  <div class="ph3 pb4 videoplayer horizontal">
       {{ asset.url }}
   </div>
 
