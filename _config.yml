@@ -41,7 +41,7 @@ defaults:
 email: quinn.cagney@gmail.com
 baseurl: "/"
 markdown: kramdown
-seo_description: Quinn Cantwell is a San Francisco-based video director.
+Description: Quinn Cantwell is a San Francisco-based video director.
 seo_tags: Everlane, Art Director, Quinn Cantwell, Design, Director, Digital, Photography
 theme: minima
 plugins:
