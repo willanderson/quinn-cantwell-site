@@ -1,6 +1,7 @@
 ---
 title: Info
 permalink: "/info/"
+position: 1
 layout: info
 ---
 
