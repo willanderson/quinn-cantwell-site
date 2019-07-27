@@ -22,33 +22,27 @@ defaults:
     path: ''
     type: stills
   values:
-    title: 
+    title:
     categories: stills
-    thumbnail_image: 
+    thumbnail_image:
     gallery:
-    - file: 
+    - file:
     layout: stills
 - scope:
     path: ''
     type: videos
   values:
-    title: 
+    title:
     categories: videos
-    thumbnail_image: 
+    thumbnail_image:
     videos:
-    - url: 
+    - url:
     layout: videos
 email: quinn.cagney@gmail.com
 baseurl: "/"
 markdown: kramdown
-description: Quinn Cantwell is a San Francisco-based video director.
+seo_description: Quinn Cantwell is a San Francisco-based video director.
+seo_tags: Everlane, Art Director, Quinn Cantwell, Design, Director, Digital, Photography
 theme: minima
 plugins:
 - jekyll-feed
-video: https://player.vimeo.com/external/345425111.hd.mp4?s=906b5e04ac62e25bc2e0186073074895bf705927&profile_id=175
-image: "/uploads/Hero_MASTER4_6_29_19.jpg"
-about_text: |-
-  Buongiorno! I am a San Francisco-based video director. I have created video and photo content for Everlane, SoulCycle, Reformation, Zegna, and Opening Ceremony.
-
-  I partner with in-house creative and marketing teams to ideate and execute campaigns. I lead or support any aspect: writing, directing, editing, casting, and styling!
-contact_text: 'I respond most quickly to emails with kitten GIF''s: quinn.cagney@gmail.com'

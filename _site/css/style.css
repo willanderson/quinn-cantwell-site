@@ -182,3 +182,19 @@ a {
 /* .videoplayer {
   max-height: calc(100vh - 50px);
 } */
+
+.measure-ultra-wide {
+  max-width: 44em;
+}
+
+@media screen and (max-width: 60em) {
+
+  .horizontal  iframe {
+      height: 500px;
+  }
+
+}
+
+.h6 {
+  min-height: 36em;
+}
