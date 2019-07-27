@@ -38,7 +38,6 @@ defaults:
     videos:
     - url: 
     layout: videos
-Description: Quinn Cantwell is a San Francisco-based video director.
 email: quinn.cagney@gmail.com
 baseurl: "/"
 markdown: kramdown
