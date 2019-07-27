@@ -22,21 +22,21 @@ defaults:
     path: ''
     type: stills
   values:
-    title:
+    title: 
     categories: stills
-    thumbnail_image:
+    thumbnail_image: 
     gallery:
-    - file:
+    - file: 
     layout: stills
 - scope:
     path: ''
     type: videos
   values:
-    title:
+    title: 
     categories: videos
-    thumbnail_image:
+    thumbnail_image: 
     videos:
-    - url:
+    - url: 
     layout: videos
 email: quinn.cagney@gmail.com
 description: Quinn Cantwell is a San Francisco-based video director.
