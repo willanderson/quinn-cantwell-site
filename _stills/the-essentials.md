@@ -4,16 +4,15 @@ date: 2016-06-15 12:00:00 Z
 categories:
 - stills
 position: 3
-thumbnail_image: "/uploads/TE_HERO"
+thumbnail_image: "/uploads/TE_3-de03c1.jpg"
 gallery:
-- file: "/uploads/TE_1.jpg"
-- file: "/uploads/TE_2.jpg"
-- file: "/uploads/TE_3.jpg"
-- file: "/uploads/TE_4.jpg"
-- file: "/uploads/TE_5-fecbae.jpg"
-- file: "/uploads/TE_6.jpg"
-- file: "/uploads/TE_7.jpg"
-- file: "/uploads/TE_8.jpg"
+- file: "/uploads/TE_1-202020.jpg"
+- file: "/uploads/TE_2-c17414.jpg"
+- file: "/uploads/TE_3-18acc6.jpg"
+- file: "/uploads/TE_4-ed28da.jpg"
+- file: "/uploads/TE_5.jpg"
+- file: "/uploads/TE_6-15cc23.jpg"
+- file: "/uploads/TE_7-ed2477.jpg"
 layout: stills
 ---
 
