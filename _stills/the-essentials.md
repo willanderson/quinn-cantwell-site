@@ -9,7 +9,7 @@ gallery:
 - file: "/uploads/TE_1-202020.jpg"
 - file: "/uploads/TE_2-c17414.jpg"
 - file: "/uploads/TE_3-18acc6.jpg"
-- file: "/uploads/TE_4-ed28da.jpg"
+- file: "/uploads/TE_4a.jpg"
 - file: "/uploads/TE_5.jpg"
 - file: "/uploads/TE_6-15cc23.jpg"
 - file: "/uploads/TE_7-ed2477.jpg"
