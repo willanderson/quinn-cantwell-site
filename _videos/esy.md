@@ -26,3 +26,4 @@ videos:
 layout: videos
 ---
 
+Edible Schoolyard (ESY) is a half-acre parking-lot-turned-garden program in downtown Brooklyn that lives to teach kids about the benefits of good food. Everlane partnered with five of the most in-demand chefs — who we interviewed in their respective kitchens — to sell custom totes and redirect all profits back to ESY!
