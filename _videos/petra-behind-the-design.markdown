@@ -9,3 +9,4 @@ videos:
     allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 ---
 
+The black leather bag was Everlane’s first luxury product launch. Petra Langerova was the brand's couture designer — and the name behind the bag. The founder and I partnered up to interview Petra in the shadowy basement of Everlane’s first offices.
