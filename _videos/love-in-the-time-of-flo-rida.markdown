@@ -1,5 +1,5 @@
 ---
-title: 'Commissioned: Love In The Time Of Flo Rida'
+title: Love In The Time Of Flo Rida
 date: 2019-09-07 01:50:00 Z
 position: 6
 thumbnail_image: "/uploads/Screen%20Shot%202019-09-06%20at%207.02.56%20PM-6adfeb.png"
