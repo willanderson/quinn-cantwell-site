@@ -1,8 +1,8 @@
 ---
-title: Stills
+title: Sets
 permalink: "/stills/"
 position: 3
-layout: stills_index
 category: stills
+layout: stills_index
 ---
 
